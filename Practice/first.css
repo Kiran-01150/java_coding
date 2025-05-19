@@ -1,0 +1,18 @@
+<!Doctype HTML>
+<htML>
+	<head>
+		<title> My web paage</title>
+	<link rel = "stylesheet" href = "Tagstyle">
+
+	<style>
+	/*internal*/
+		h1{	background-color:black;
+			color:white;
+			cursor:ponter;
+
+		</style>
+	</head>
+	<body>
+ 		Normal text
+		<p style="color:red;background-color:black"> Iam paragraph</p>
+		<p style ="color:blue"> second paragraph</p> 

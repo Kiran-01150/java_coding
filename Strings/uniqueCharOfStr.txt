@@ -1,0 +1,14 @@
+class Main
+{
+	public static void main(String args[])
+	{
+	  Strin s = " hello all i am kiran ";
+	for(int x=0; x<=s.length()-1;x++)
+	{
+		char let = charAt(x);
+		int index1 = s.index('let');
+		int index2 = s.lastIndex('let');
+		if (index1 == index2)
+			System.out.print(let);
+	}
+}
